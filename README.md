@@ -22,7 +22,6 @@ Hello, I'm [Ibrahim BAKHALED](https://github.com/IbrahimBakhaled), a passionate 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://github.com/IbrahimBakhaled/IbrahimBakhaled/blob/main/bakhaledibrahim-gif.gif?raw=true" width="500" height="320" />
 
 
 <h3 align="left">Connect with me:</h3>
